@@ -9,6 +9,9 @@ ENV_FILE = PROJECT_ROOT / ".env"
 # Load variables from the exact .env path
 load_dotenv(dotenv_path=ENV_FILE, override=True)
 
+SUPABASE_URL = os.getenv("SUPABASE_URL", "").strip()
+SUPABASE_SECRET_KEY = os.getenv("SUPABASE_SECRET_KEY", "").strip()
+
 API_KEY = os.getenv("AVIATIONSTACK_API_KEY", "").strip()
 
 BASE_URL = "https://api.aviationstack.com/v1/flights"
