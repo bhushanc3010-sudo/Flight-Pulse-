@@ -21,7 +21,7 @@ def main():
 
     # One airport and one API request for this first run.
     result = fetch_live_flights(
-        airport="BOM",
+        airport="BOM,DEL,BLR",
         limit=10,
         direction="departure",
     )
