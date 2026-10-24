@@ -86,31 +86,32 @@ The report has five pages, each focused on a different perspective.
 1. Executive Overview
 A high-level summary of the collected flight observations and delay-related KPIs.
 What it helps me see: the overall shape of the collected data before exploring individual airlines, airports, or routes.
-[](https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Excecusive%20Overview.png)
+<img width="1428" height="806" alt="image" src="https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Excecusive%20Overview.png" />
 
 3. Airline Performance
 Compares airlines represented in the collected observations using the available flight and departure-delay measures.
 
 What it helps me see: how airlines in this dataset compare, while remembering that results depend on the coverage and completeness of the collected data.
-[](https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Airline%20Performance.png)
+<img width="1428" height="806" alt="image" src="(https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Airline%20Performance.png)" />
+
 
 3. Airport Intelligence
 Explores observations by departure and destination airport using the airport codes in the data.
 
 What it helps me see: which airports are represented and how the available departure-delay information varies by airport. The destination view still uses departure-delay values; it is not an arrival-delay measurement.
-[](https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Airport%20Intelligence.png)
+<img width="1428" height="806" alt="image" src="https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Airport%20Intelligence.png" />
 
 4. Route Analysis
 Looks at the origin--destination pairs present in the collected records.
 
 What it helps me see: which routes are represented and how their available flight and delay measures compare.
-[](https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Route%20Analysis.png)
+<img width="1428" height="806" alt="image" src="https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Route%20Analysis.png" />
 
 5. Flight Monitor
 Provides a row-level view of flight observations, including flight number, airline, origin, destination, status, scheduled and actual departure times, departure delay, and snapshot time.
 
 What it helps me see: the records behind the summary KPIs and whether important values are missing or unknown.
-[](https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Flight%20Monitor.png)
+<img width="1428" height="806" alt="image" src="https://github.com/bhushanc3010-sudo/Flight-Pulse-/blob/main/Screenshot/Flight%20Monitor.png" />
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
