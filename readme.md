@@ -117,13 +117,13 @@ What it helps me see: the records behind the summary KPIs and whether important 
 🧰 Tools & Technologies
   Technology Use in this project
 
-  Python Pipeline orchestration and data processing                                  
-  Pandas Data cleaning and preparation
-  Aviationstack API Live flight-data source
-  Supabase / PostgreSQL Storage for prepared flight observations
-  SQL Working with structured data and supporting analytics
-  Power BI Data model, KPI cards, filters, tables, and dashboard visuals
-  DAX Calculated columns and measures
+   Pandas Data cleaning and preparation 
+   Aviationstack API Live flight-data source
+   Supabase / Postgress Storage for Prepared flight observations
+   SQL Working with structured data and supporting analytics
+   Power BI Data model, KPI cards, Filters , Tables and dashboard visuals
+   Dax Calculation column and Mesures
+    
 ---------------------------------------------------------------------------------------------------------------------------------
   Git & GitHub Version control and documentation
 🎯 How This Project Is Useful
